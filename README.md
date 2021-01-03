@@ -14,9 +14,9 @@
 
 ___
 
-![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
+![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=Zhirrr&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-byte&hide=css,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krypton-byte&repo=chappie-bot)](https://github.com/krypton-byte/chappie-bot)
 
