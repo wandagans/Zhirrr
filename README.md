@@ -1,4 +1,4 @@
-## Ya Halooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Yo Halooo Zhirrr In Yhe Here Boyyy!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <img src="https://raw.githubusercontent.com/krypton-byte/krypton-byte/master/asset/image/1.png" width="120" height="120" align="right">
 
@@ -14,7 +14,7 @@
 
 ___
 
-![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=Zhirrr&show_icons=true&theme=tokyonight)
+![Zhirrr github stats](https://github-readme-stats.vercel.app/api?username=Zhirrr&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
