@@ -17,7 +17,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krypton-byte&repo=chappie-bot)](https://github.com/krypton-byte/chappie-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Kumpulan-API-By-Zhirrr)](https://github.com/krypton-byte/chappie-bot)
 
 <!--
 
