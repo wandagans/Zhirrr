@@ -1,4 +1,4 @@
-## Yo Halooo [Zhirrr](https://instagram.com/@zhirr_ajalah) In The Here Boyyy!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Yo Halooo [Zhirrr](https://instagram.com/@zhirr_ajalah) In The Here Boyyy!😎 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
 <img align="left" alt="GIF" height="100px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
