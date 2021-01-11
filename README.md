@@ -19,7 +19,7 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-official)](https://github.com/Zhirrr/islamic-rest-api-official)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian)](https://github.com/Zhirrr/islamic-rest-api-indonesian)
 
 <!--
 
@@ -27,7 +27,7 @@ ___
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Home
 
 - 🌱 I’m currently learning ...
 
