@@ -1,4 +1,4 @@
-## Hello(https://instagram.com/@zhirr_ajalah)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">    
+## Hello Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hello, My Name Is Zhirrr, And My Full Name Is Zahir Hadi Athallah, Or Maybe You Can Call Me Zahir, Iam An 13.yo Programmer And I'm Still A Student At SMPN 279 Jakarta Utara
 <br>
 
