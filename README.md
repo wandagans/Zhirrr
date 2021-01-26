@@ -1,13 +1,6 @@
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zhirrr, I'm an 13 y.o Coder. and I'm still a student at SMPN 279 Jakarta Utara
 <br>
-
-<br>
-
-<br>
-
-<br>
-
 ## Languages Learned:
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-00BCD4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
