@@ -19,13 +19,13 @@ ___
 
 ## About Me :
 
-🔭 I’m currently working on My House
+I’m currently working on : My House
 
-🌱 I’m currently learning C++
+I’m currently : learning C++
 
-👯 I’m looking to collaborate on Social Talk Chatting Application
+I’m looking to collaborate on : Social Talk Chatting Application
 
-⚡ Fun fact: I Really Like Indomie
+Fun fact: I Really Like Indomie
 
 
 
