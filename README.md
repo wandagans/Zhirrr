@@ -13,6 +13,10 @@
 
 <br>
 
+## Languages Learned:
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-00BCD4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 ___
 
 ![Zhirrr github stats](https://github-readme-stats.vercel.app/api?username=Zhirrr&show_icons=true&theme=tokyonight)
