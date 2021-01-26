@@ -17,15 +17,15 @@ ___
 
 **Zhirrr/Zhirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on My House
+🔭 I’m currently working on My House
 
-- 🌱 I’m currently learning C++
+🌱 I’m currently learning C++
 
-- 👯 I’m looking to collaborate on Social Talk Chatting Application
+👯 I’m looking to collaborate on Social Talk Chatting Application
 
-- ⚡ Fun fact: I Really Like Indomie
+⚡ Fun fact: I Really Like Indomie
 
 
 
