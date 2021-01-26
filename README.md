@@ -1,5 +1,5 @@
-## Hello Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hello, My Name Is Zhirrr, And My Full Name Is Zahir Hadi Athallah, Or Maybe You Can Call Me Zahir, Iam An 13.yo Programmer And I'm Still A Student At SMPN 279 Jakarta Utara
+## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zhirrr, I'm an 13 y.o Coder. and I'm still a student at SMPN 279 Jakarta Utara
 <br>
 
 <br>
@@ -26,23 +26,13 @@ ___
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Home
+- 🔭 I’m currently working on My House
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Social Talk Chatting Application
 
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: Gw Suka Indomie
-
--->
+- ⚡ Fun fact: I Really Like Indomie
 
 
 
