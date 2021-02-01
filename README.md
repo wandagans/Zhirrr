@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Zhirrr&description=Hi,Im A Web Developer And 13 y.o&image=https://avatars1.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=zhirr_ajalah&github=Zhirrr&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Zhirrr&description=Hi,im a web developer and iam 13 y.o&image=https://avatars1.githubusercontent.com/u/33148052?v=4&backgroundColor=%23ecf0f1&instagram=zhirr_ajalah&github=Zhirrr&pattern=leaf&colorPattern=%23eaeaea)
 
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zhirrr, I'm an 13 y.o Coder. and I'm still a student at SMPN 279 Jakarta Utara
