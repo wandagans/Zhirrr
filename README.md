@@ -37,6 +37,11 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhirrr&repo=wallpaper-rest-api-indonesia">
   </a>
 </details>
+ <summary>My All Data JSON, SQL, SCRAPE, And Many More</summary>
+  <a href="https://github.com/zhirrr/My-SQL-Results">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-SQL-Results">
+  </a>
+</details>
 <!--
 
 **Zhirrr/Zhirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
