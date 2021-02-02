@@ -26,6 +26,25 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
+## About me
+```ts
+const zhirrr = () => {
+  return {
+    pronouns: "He" | "Him",
+    askMeAbout: ["BackEnd Dev", "Web Developer"],
+    technologies:{
+        backEnd: ["Nodejs", "Flask"]
+    },
+    Social:{
+        Whatsapp : "https://api.whatsapp.com/send?phone=6283898698875&text=Halo+Zahir",
+        Instagram : "https://www.instagram.com/@zhirr_ajalah",
+        Website : "api-zhirrr.vercel.app"
+    },
+    funFact: "I'm Just Hobby Programming"
+  }
+}
+```
+
 ## Another Pin Project
 
 <details>
