@@ -71,6 +71,12 @@ const zhirrr = () => {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-Python-Creations">
   </a>
 </details>
+<details>
+  <summary>My WhatsApp Bot Project</summary>
+  <a href="https://github.com/zhirrr/botwa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=botwa">
+  </a>
+</details>
 <!--
 
 **Zhirrr/Zhirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
