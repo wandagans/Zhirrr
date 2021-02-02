@@ -26,8 +26,20 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian)](https://github.com/Zhirrr/islamic-rest-api-indonesian)
+## Another Pin Project
 
+<details>
+  <summary>My Rest API Project</summary>
+  <a href="https://github.com/zhirrr/islamic-rest-api-indonesian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian">
+  </a>
+  <a href="https://github.com/satyawikananda/cardivo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=cardivo">
+  </a>
+  <a href="https://github.com/satyawikananda/denovo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyawikananda&repo=denovo">
+  </a>
+</details>
 <!--
 
 **Zhirrr/Zhirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
