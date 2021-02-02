@@ -37,6 +37,7 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhirrr&repo=wallpaper-rest-api-indonesia">
   </a>
 </details>
+<details>
  <summary>My All Data JSON, SQL, SCRAPE, And Many More</summary>
   <a href="https://github.com/zhirrr/My-SQL-Results">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-SQL-Results">
