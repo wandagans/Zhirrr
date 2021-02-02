@@ -33,8 +33,8 @@ ___
   <a href="https://github.com/zhirrr/islamic-rest-api-indonesian">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian">
   </a>
-  <a href="https://github.com/zhirrr/wallpaper-rest-api-indonesian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhirrr&repo=wallpaper-rest-api-indonesian">
+  <a href="https://github.com/zhirrr/wallpaper-rest-api-indonesia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhirrr&repo=wallpaper-rest-api-indonesia">
   </a>
 </details>
 <!--
