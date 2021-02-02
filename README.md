@@ -46,6 +46,12 @@ ___
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-SQL-Results">
   </a>
 </details>
+<details>
+ <summary>My Python Creations Files</summary>
+  <a href="https://github.com/zhirrr/My-Python-Creations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-Python-Creations">
+  </a>
+</details>
 <!--
 
 **Zhirrr/Zhirrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
