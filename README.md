@@ -33,7 +33,7 @@ const zhirrr = () => {
     pronouns: "He" | "Him",
     askMeAbout: ["BackEnd Developer", "Web Developer"],
     technologies:{
-        backEnd: ["Nodejs", "Flask"]
+        backEnd: ["NodeJs", "Flask"]
     },
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=6283898698875&text=Halo+Zahir",
