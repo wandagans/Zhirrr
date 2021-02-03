@@ -38,7 +38,7 @@ const zhirrr = () => {
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=6283898698875&text=Halo+Zahir",
         Instagram : "https://www.instagram.com/@zhirr_ajalah",
-        Website : "api-zhirrr.vercel.app"
+        Website : "https://api-zhirrr.vercel.app"
     },
     funFact: "I'm Just Hobby Programming"
   }
