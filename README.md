@@ -50,6 +50,12 @@ const zhirrr = () => {
 ## Another Pin Project
 
 <details>
+  <summary>My NPM Package</summary>
+  <a href="https://github.com/zhirrr/KBBI-Api-Package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=KBBI-Api-Package">
+  </a>
+</details>
+<details>
   <summary>My Rest API Project</summary>
   <a href="https://github.com/zhirrr/islamic-rest-api-indonesian">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian">
