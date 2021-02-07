@@ -57,6 +57,9 @@ const zhirrr = () => {
    <a href="https://github.com/zhirrr/Gempa-Api-Package">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Gempa-Api-Package">
   </a>
+ <a href="https://github.com/zhirrr/Kodepos-Api-Package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Kodepos-Api-Package">
+  </a>
 </details>
 <details>
   <summary>My Rest API Project</summary>
