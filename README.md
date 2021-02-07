@@ -66,8 +66,8 @@ const zhirrr = () => {
    <a href="https://github.com/zhirrr/KBBI-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=KBBI-api">
   </a>
-    <a href="https://github.com/zhirrr/Downloader-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Downloader-Api">
+    <a href="https://github.com/zhirrr/Sosmed-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Sosmed-Api">
   </a>
    <a href="https://github.com/zhirrr/gempa-rest-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=gempa-rest-api">
