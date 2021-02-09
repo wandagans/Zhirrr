@@ -50,6 +50,9 @@ const zhirrr = () => {
 
 <details>
   <summary>My NPM Package</summary>
+   <a href="https://github.com/zhirrr/Islamic-Api-Package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Islamic-Api-Package">
+  </a>
   <a href="https://github.com/zhirrr/KBBI-Api-Package">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=KBBI-Api-Package">
   </a>
