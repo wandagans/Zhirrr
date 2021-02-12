@@ -47,7 +47,12 @@ const zhirrr = () => {
 ```
 
 ## Another Pin Project
-
+<details>
+  <summary>Free Rest API Open Source</summary>
+   <a href="https://github.com/Zhirrr/Python-Flask-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Python-Flask-API">
+  </a>
+</details>
 <details>
   <summary>My NPM Package</summary>
    <a href="https://github.com/zhirrr/Islamic-Api-Package">
