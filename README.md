@@ -54,18 +54,9 @@ const zhirrr = () => {
   </a>
 </details>
 <details>
-  <summary>My NPM Package</summary>
-   <a href="https://github.com/zhirrr/Islamic-Api-Package">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Islamic-Api-Package">
-  </a>
-  <a href="https://github.com/zhirrr/KBBI-Api-Package">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=KBBI-Api-Package">
-  </a>
-   <a href="https://github.com/zhirrr/Gempa-Api-Package">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Gempa-Api-Package">
-  </a>
- <a href="https://github.com/zhirrr/Kodepos-Api-Package">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Kodepos-Api-Package">
+  <summary>My Official NPM Package</summary>
+   <a href="https://github.com/Zhirrr/Zhirrr-Api-Package">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Zhirrr-Api-Package">
   </a>
 </details>
 <details>
