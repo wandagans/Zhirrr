@@ -29,7 +29,7 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhirrr&hide=css,html&theme=tokyonight)
 
 ## About me
-```ts
+```js
 const zhirrr = () => {
   return {
     pronouns: "He" | "Him",
