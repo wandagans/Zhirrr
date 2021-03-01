@@ -93,9 +93,7 @@ const zhirrr = () => {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-SQL-Results">
   </a>
    <a href="https://github.com/zhirrr/Zhirrr-Database">
-
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Zhirrr-Database">
-
   </a>
 </details>
 <details>
