@@ -23,8 +23,7 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
 ## Languages Learned:
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-00BCD4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-00BCD4?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C#-00BCD4?style=for-the-badge&logo=c#&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 
 ___
