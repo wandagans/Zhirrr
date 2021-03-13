@@ -37,7 +37,7 @@ ___
 const zhirrr = () => {
   return {
     pronouns: "He" | "Him",
-    askMeAbout: ["Front End & Back End Web Developer", "App Developer"],
+    askMeAbout: ["Front End & Back End Web Development", "App Development"],
     technologies:{
         backEnd: ["ExpressJs", "Flask"],
         appDevelopment: ["Sketchware", "AndroidStudio"],
