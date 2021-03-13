@@ -37,9 +37,11 @@ ___
 const zhirrr = () => {
   return {
     pronouns: "He" | "Him",
-    askMeAbout: ["BackEnd Developer", "Web Developer"],
+    askMeAbout: ["Front End & Back End Web Developer", "App Developer"],
     technologies:{
-        backEnd: ["NodeJs", "Flask"]
+        backEnd: ["ExpressJs", "Flask"],
+        appDevelopment: ["Sketchware", "AndroidStudio"],
+        gameDevelopment: ["Unity"]
     },
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=6283898698875&text=Halo+Zahir",
