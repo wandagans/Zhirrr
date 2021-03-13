@@ -10,9 +10,11 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
    <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
-- 🌱 I’m currently learning
-  - C++
-  - Node JS
+- 🌱 I Can Codes In :
+  - Python
+  - JavaScript
+  - Java
+  - C# [ Unity ]
  
  🔭 I’m currently working on My Beautiful House
  
@@ -21,6 +23,9 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
 ## Languages Learned:
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-00BCD4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-00BCD4?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C#-00BCD4?style=for-the-badge&logo=c#&logoColor=white&labelColor=101010)]()
+
 
 ___
 
