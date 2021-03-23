@@ -101,6 +101,9 @@ const zhirrr = () => {
    <a href="https://github.com/zhirrr/gempa-rest-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=gempa-rest-api">
   </a>
+  <a href="https://github.com/zhirrr/Bioskop-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Bioskop-Api">
+  </a>
 </details>
 <details>
  <summary>My DataBase Open Source</summary>
