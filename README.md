@@ -18,7 +18,7 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
  
  🔭 I’m currently working on My Beautiful House
  
- ⚡ Fun fact: I really like Indomie
+ ⚡ Fun fact: Gak Bisa Bahasa Enggress
 
 **Leader At :**
 - [CreativeStudioID](https://github.com/CreativeStudioID)
