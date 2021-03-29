@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Zhirrr&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2013%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/75620279?v=4&backgroundColor=%23ecf0f1&instagram=zhirr_ajalah&linkedin=Zhirrr&github=Zhirrr&twitter=Zhirrr&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Zhirrr&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2014%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/75620279?v=4&backgroundColor=%23ecf0f1&instagram=zhirr_ajalah&linkedin=Zhirrr&github=Zhirrr&twitter=Zhirrr&pattern=leaf&colorPattern=%23eaeaea)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Zhirrr)
 
