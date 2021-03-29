@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Zhirrr)
 
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir, I'm an 13 y.o Coder. and I'm still a student at SMPN 279 Jakarta Utara
+Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir, I'm an 14 y.o Coder. and I'm still a student at SMPN 279 Jakarta Utara
 <br>
 <p align='center'>
    <a href="https://wa.me/6283898698875"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
