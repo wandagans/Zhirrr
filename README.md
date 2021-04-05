@@ -76,6 +76,12 @@ const zhirrr = () => {
   </a>
 </details>
 <details>
+<summary>My Game Web Project</summary>
+<a href="https://github.com/Zhirrr/Pixel-Runner-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Pixel-Runner-Game">
+  </a>
+</details>
+<details>
   <summary>My Official NPM Package</summary>
    <a href="https://github.com/Zhirrr/Zhirrr-Api-Package">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Zhirrr-Api-Package">
