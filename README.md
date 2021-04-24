@@ -11,8 +11,10 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
 </P>
 
 - 🌱 I Can Codes In :
-  - Python
+  - HTML
+  - CSS
   - JavaScript
+  - Python
   - Java/XML
   - C# [ Unity ]
  
