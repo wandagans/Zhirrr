@@ -13,7 +13,7 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
 - 🌱 I Can Codes In :
   - Python
   - JavaScript
-  - Java
+  - Java/XML
   - C# [ Unity ]
  
  🔭 I’m currently working on My Beautiful House
