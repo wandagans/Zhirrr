@@ -99,11 +99,11 @@ const zhirrr = () => {
 </details>
 <details>
   <summary>My Rest API Project</summary>
-  <a href="https://github.com/zhirrr/islamic-rest-api-indonesian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian">
-  </a>
   <a href="https://github.com/zhirrr/islamic-rest-api-indonesian-v2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian-v2">
+  </a>
+  <a href="https://github.com/zhirrr/islamic-rest-api-indonesian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=islamic-rest-api-indonesian">
   </a>
   <a href="https://github.com/zhirrr/wallpaper-rest-api-indonesia">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhirrr&repo=wallpaper-rest-api-indonesia">
@@ -128,6 +128,9 @@ const zhirrr = () => {
   </a>
    <a href="https://github.com/zhirrr/Kartun-Api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Kartun-Api">
+  </a>
+   <a href="https://github.com/zhirrr/Masjid-Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Masjid-Api">
   </a>
 </details>
 <details>
