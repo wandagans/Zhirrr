@@ -6,7 +6,7 @@
 Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir, I'm an 14 y.o Coder. and I'm still a student at SMPN 279 Jakarta Utara
 <br>
 <p align='center'>
-   <a href="https://wa.me/6283898698875"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://wa.me/18573850781"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
@@ -60,7 +60,7 @@ const zhirrr = () => {
         gameDevelopment: ["Unity"]
     },
     social:{
-        Whatsapp : "https://api.whatsapp.com/send?phone=6283898698875&text=Halo+Zahir",
+        Whatsapp : "https://api.whatsapp.com/send?phone=18573850781&text=Halo+Zahir",
         Instagram : "https://www.instagram.com/@zhirr_ajalah",
         Website : "https://zahirr-web.herokuapp.com"
     },
