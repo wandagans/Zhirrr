@@ -21,6 +21,7 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
  🔭 I’m currently working on My Beautiful House
  
  ⚡ Fun fact: Gak Bisa Bahasa Enggress
+
     Keahlian Lain : Bug Hunter, Social Engineering
 
 **Leader At :**
