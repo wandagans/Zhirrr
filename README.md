@@ -77,6 +77,18 @@ const zhirrr = () => {
 
 ## Another Pin Project
 <details>
+  <summary>Bug Hunter Activity</summary>
+   <a href="https://github.com/Zhirrr/Vuln-Website-Indonesia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Vuln-Website-Indonesia">
+  </a>
+</details>
+<details>
+<summary>My Application Project</summary>
+<a href="https://github.com/Zhirrr/PyCodes-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
+  </a>
+</details>
+<details>
   <summary>Free Rest API Open Source</summary>
    <a href="https://github.com/Zhirrr/Textmaker-Api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Textmaker-Api">
