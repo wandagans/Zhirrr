@@ -22,7 +22,11 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
  
  ⚡ Fun fact: Gak Bisa Bahasa Enggress
 
-    Keahlian Lain : Bug Hunter, Social Engineering, Reverse Engineering ? Kaming sun
+    Keahlian Lain : Bug Hunter, Social Engineering
+
+**Selanjutnya Mau Belajar Apa ?**
+- Reverse Engineering ( Kagak Bisa2 Gw Asw )
+- Belajar Mencintai Mu Eaaa
 
 **Leader At :**
 - [CreativeStudioID](https://github.com/CreativeStudioID)
