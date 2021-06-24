@@ -25,7 +25,7 @@ Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir
     Keahlian Lain : Bug Hunter, Social Engineering
 
 **Selanjutnya Mau Belajar Apa ?**
-- Reverse Engineering ( Kagak Bisa2 Gw Asw )
+- Reverse Engineering, Kagak Bisa2 Gw :(
 - Belajar Mencintai Mu Eaaa
 
 **Leader At :**
