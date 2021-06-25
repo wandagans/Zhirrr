@@ -66,7 +66,6 @@ const zhirrr = () => {
     },
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=18573850781&text=Halo+Zahir",
-        Instagram : "https://www.instagram.com/@zhirr_ajalah"
     },
     funFact: "I'm Just Hobby Programming"
   }
