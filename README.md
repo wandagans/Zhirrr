@@ -3,11 +3,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Zhirrr)
 
 ## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Hi, I'm Zhirrr, My Full Name Is Zahir Hadi Athallah, Or you Can call me as Zahir, I'm an 14 y.o Coder
+Hi, I'm Zhirrr, I'm an 14 y.o Coder
 <br>
 <p align='center'>
    <a href="https://wa.me/18573850781"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/zhirr_ajalah"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 
 - 🌱 I Can Codes In :
@@ -67,8 +66,7 @@ const zhirrr = () => {
     },
     social:{
         Whatsapp : "https://api.whatsapp.com/send?phone=18573850781&text=Halo+Zahir",
-        Instagram : "https://www.instagram.com/@zhirr_ajalah",
-        Website : "https://zahirr-web.herokuapp.com"
+        Instagram : "https://www.instagram.com/@zhirr_ajalah"
     },
     funFact: "I'm Just Hobby Programming"
   }
