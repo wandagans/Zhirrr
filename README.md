@@ -5,9 +5,6 @@
 ## Ahlan Wa Sahlan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Hi, I'm Zhirrr, My Fullname is Zahir Hadi Athallah, I'm an 14 y.o Coder
 <br>
-<p align='center'>
-   <a href="https://wa.me/18573850781"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-</P>
 
 - 🌱 I Can Codes In :
   - HTML
