@@ -18,7 +18,9 @@ Hi, I'm Zhirrr, My Fullname is Zahir Hadi Athallah, I'm an 14 y.o Coder
  
  ⚡ Fun fact: Gak Bisa Bahasa Enggress
 
-    Keahlian Lain : Bug Hunter, Social Engineering
+**Follow 2nd Account :**
+- [ZSofttt](https://github.com/ZSofttt)
+
 
 **Selanjutnya Mau Belajar Apa ?**
 - Reverse Engineering
@@ -70,12 +72,6 @@ const zhirrr = () => {
 ```
 
 ## Another Pin Project
-<details>
-  <summary>Bug Hunter Activity</summary>
-   <a href="https://github.com/Zhirrr/Vuln-Website-Indonesia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Vuln-Website-Indonesia">
-  </a>
-</details>
 <details>
 <summary>My Application Project</summary>
 <a href="https://github.com/Zhirrr/PyCodes-App">
