@@ -73,12 +73,6 @@ const zhirrr = () => {
 
 ## Another Pin Project
 <details>
-<summary>My Application Project</summary>
-<a href="https://github.com/Zhirrr/PyCodes-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=PyCodes-App">
-  </a>
-</details>
-<details>
   <summary>Free Rest API Open Source</summary>
    <a href="https://github.com/Zhirrr/Textmaker-Api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=Textmaker-Api">
@@ -160,12 +154,6 @@ const zhirrr = () => {
   <summary>My WhatsApp Bot Project</summary>
   <a href="https://github.com/zhirrr/botwa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=botwa">
-  </a>
-</details>
-<details>
-  <summary>My Templates Web API [ Just A Template, Not A Source Code ]</summary>
-  <a href="https://github.com/zhirrr/My-Rest-Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhirrr&repo=My-Rest-Api">
   </a>
 </details>
 <!--
